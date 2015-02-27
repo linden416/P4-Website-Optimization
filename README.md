@@ -1,7 +1,8 @@
 # P4-Website-Optimization
 Project 4 Web Optimization and Performance / Front-End Web Developer Nanodegree
 
-2-11-2015
+2-27-2015 - Second Submission Date
+2-11-2015 - First Submission Date
 
 Student
 
@@ -14,6 +15,20 @@ Summary Objective
 
 	This project enforces skills for altering the Critical Rendering Path,
 	Content Efficiency, Computation Efficiency, and Framerate.
+
+Note To Evaluator 
+
+	This is the second submission of project 4. The evaluation rating for Content Efficiency
+	'Did Not Meet'. This correctly points out the omission of minifying ALL javascript
+	and css files. I have made that change.
+
+	The evaluation also indicated Comments as 'Does Not Meet' lacking comments in the pizza
+	javascript. This was confusing to me because I documented all of my changes in this readme document.
+	I do not see the logic to adding comments in the script which explain why I removed 
+	several functions. However, for this submission, I have added comments in the javascript
+	which are identified with my initials //G.S.
+	I used these comments to hopefully 'Meet' this requirement.
+
 
 Installation Instructions
 
